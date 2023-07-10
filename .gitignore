@@ -1,0 +1,15 @@
+# IDE stuff
+.vscode/
+
+# Virtual environment
+venv/
+.python-version
+
+# Testing
+.pytest_cache/
+
+# Cache
+__pycache__/
+
+# Packaging
+*.egg-info/
